@@ -1,6 +1,6 @@
 title: Armored Knight
 originalAuthor: Shananas
-description:
+game: kh2
 assets:
  - name: obj/M_EX760_RAW.mdlx
    method: copy
